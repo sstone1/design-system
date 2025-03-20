@@ -1,0 +1,1 @@
+import{g as r,a as s}from"./generateUtilityClasses-7uZHDCF9.js";function o(e){return s("MuiFormLabel",e)}const t=r("MuiFormLabel",["root","colorSecondary","focused","disabled","error","filled","required","asterisk"]);export{t as f,o as g};
