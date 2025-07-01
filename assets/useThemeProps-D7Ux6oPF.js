@@ -1,0 +1,1 @@
+import{b as t,T as u}from"./styled-YeRgfiRQ.js";import{g as a}from"./getThemeProps-CkBDv-pi.js";import{u as f}from"./useTheme-DyIePcff.js";function p({props:r,name:m,defaultTheme:s,themeId:o}){let e=f(s);return o&&(e=e[o]||e),a({theme:e,name:m,props:r})}function n({props:r,name:m}){return p({props:r,name:m,defaultTheme:t,themeId:u})}export{p as a,n as u};
